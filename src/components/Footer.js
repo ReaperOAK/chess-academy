@@ -58,7 +58,7 @@ function Footer() {
 
         {/* Footer Bottom: Copyright */}
         <div className="border-t border-gray-700 mt-8 pt-6 text-center">
-          <p className="text-gray-400">© 2024 Chess Academy. All Rights Reserved.</p>
+          <p className="text-gray-400">© 2024 Chess Academy. All Rights Reserved.<br/>Made with &#10084; by Owais Khan</p>
         </div>
       </div>
     </footer>
